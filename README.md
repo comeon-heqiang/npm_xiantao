@@ -1,0 +1,2 @@
+[![](https://img.shields.io/npm/v/@cycle/npm_xiantao.svg)](https://github.com/comeon-heqiang/npm_xiantao)
+[![](https://img.shields.io/github/issues/detail/s/badges/shields/100.svg)](https://github.com/comeon-heqiang/npm_xiantao)
